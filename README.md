@@ -1,4 +1,4 @@
-# Crypto Price SMS Notifications
+# Crypto Price Notifications
 The main objective is to develop an application that notifies users when the price of a specific token reaches a predefined threshold. This is especially useful for traders looking to maximize their profits or minimize losses in a highly volatile market.
 
 ### Technologies Used
